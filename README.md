@@ -1,4 +1,4 @@
-# Entrega de evakuacion de laboratorio de lenguaje de programacion
+# Entrega de evaluacion de <strong> laboratorio de lenguaje de programacion </strong>
 
 ## Esto es una calculadora parecida a la de windows
 
